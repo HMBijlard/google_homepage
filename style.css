@@ -1,0 +1,12 @@
+body {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #222;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+
+}
